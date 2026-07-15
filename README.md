@@ -1,17 +1,42 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E54E9,100:00D9FF&height=6&section=header"/>
+
+<table>
+<tr>
+<td width="62%" valign="middle">
+
+<h1>Hi, I'm Nandini Goel 👋</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=false&vCenter=true&width=520&height=60&lines=Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+MediFlow+AI+%F0%9F%A9%BA;SIH+2024+National+Hackathon+Winner+%F0%9F%8F%86"/>
+
+I'm a Computer Science (AI/ML) student who turns ideas into deployed, full-stack products — most recently an AI-powered clinical triage system built end-to-end with React, Node.js, and real-time AI APIs.
+
+<img src="https://img.shields.io/badge/🏆_SIH_2024-National_Winner-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-AI_%26_ML-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/📍_Ghaziabad,_India-8E54E9?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nandini-devops"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nandinigoel.0207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</td>
+<td width="38%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/238200622-c158e4c7-19f0-4f7f-8ff2-5ba36cec2eb1.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E54E9,100:00D9FF&height=250&section=header&text=Hi%20There,%20I'm%20Nandini%20👋&fontSize=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Hackathon%20Winner&descAlignY=58&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+MediFlow+AI+%F0%9F%A9%BA;SIH+2024+National+Winner+%F0%9F%8F%86;React+%7C+Node.js+%7C+TypeScript+%F0%9F%9A%80;AI+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%E2%9C%A8"/>
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goel-nandini&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/goel-nandini?style=for-the-badge&color=00D9FF&labelColor=6C63FF)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8E54E9,100:6C63FF&height=3&section=header"/>
 
 ## 🌟 About Me
 
