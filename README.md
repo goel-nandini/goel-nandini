@@ -1,27 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E54E9,100:00D9FF&height=6&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:6C63FF,100:00D9FF&height=4&section=header"/>
 
-<table>
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+
+<table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="58%" valign="middle">
 
-<h1>Hi, I'm Nandini Goel 👋</h1>
+<h1>Hi, I'm Nandini Goel</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=false&vCenter=true&width=520&height=60&lines=Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+MediFlow+AI+%F0%9F%A9%BA;SIH+2024+National+Hackathon+Winner+%F0%9F%8F%86"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00D9FF&center=false&vCenter=true&width=520&height=55&lines=Full+Stack+Developer;AI+Builder;Smart+India+Hackathon+Winner"/>
 
-I'm a Computer Science (AI/ML) student who turns ideas into deployed, full-stack products — most recently an AI-powered clinical triage system built end-to-end with React, Node.js, and real-time AI APIs.
+I build full-stack products end-to-end — from React interfaces to Node.js APIs to the AI layer that ties them together. Most recently, an AI-powered clinical triage system deployed and running in production.
 
-<img src="https://img.shields.io/badge/🏆_SIH_2024-National_Winner-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-AI_%26_ML-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/📍_Ghaziabad,_India-8E54E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Ghaziabad,_India-0A0E27?style=flat-square&labelColor=0A0E27&color=6C63FF"/>
+<img src="https://img.shields.io/badge/-B.Tech_CSE_(AI_%26_ML)-0A0E27?style=flat-square&labelColor=0A0E27&color=00D9FF"/>
+<img src="https://img.shields.io/badge/-SIH_2024_National_Winner-0A0E27?style=flat-square&labelColor=0A0E27&color=6C63FF"/>
 
 <br/><br/>
 
-<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nandini-devops"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nandinigoel.0207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nandini-devops/"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27"/></a>
+<a href="mailto:nandinigoel.0207@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=readdotcv&logoColor=0A0E27"/></a>
 
 </td>
-<td width="38%" align="center">
+<td width="42%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/238200622-c158e4c7-19f0-4f7f-8ff2-5ba36cec2eb1.gif" width="100%"/>
 
@@ -31,159 +34,246 @@ I'm a Computer Science (AI/ML) student who turns ideas into deployed, full-stack
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=goel-nandini&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/goel-nandini?style=for-the-badge&color=00D9FF&labelColor=6C63FF)
+![Profile Views](https://komarev.com/ghpvc/?username=goel-nandini&color=6C63FF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/goel-nandini?style=flat-square&color=00D9FF&labelColor=0A0E27)
+![Repos](https://img.shields.io/github/repos/goel-nandini?style=flat-square&color=6C63FF&labelColor=0A0E27&label=REPOSITORIES)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:8E54E9,100:6C63FF&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
 
-## 🌟 About Me
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
+<h2 align="center">About Me</h2>
 
-- 🎓 B.Tech CSE **(AI & ML)** @ ABES Engineering College — CGPA `8.0/10`
-- 💻 Full Stack Developer — **React · Node.js · TypeScript**
-- 🤖 Building **MediFlow AI** — an AI-powered clinical triage system
-- 🏆 **Smart India Hackathon 2024** — 🥇 National Winner (500+ teams)
-- 🧩 **400+** DSA problems solved
-- 🌱 Currently leveling up: `System Design` `Docker` `AWS` `DevOps`
-- ☕ Fueled by coffee, lo-fi, and clean commit messages
-- 📫 Reach me: **nandinigoel.0207@gmail.com**
+<div align="center">
 
-<br clear="right"/>
+```bash
+> whoami
+Nandini Goel
 
-## 🚀 Featured Projects
+> role
+Full Stack Developer
 
-<table>
+> currently_learning
+System Design · Docker · AWS · AI Agents
+
+> favourite_stack
+React · Node.js · TypeScript · MongoDB
+
+> status
+🟢 Building
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+
+<h2 align="center">Achievements</h2>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="20%" align="center">
 
-### 🩺 MediFlow AI
-<img src="https://img.shields.io/badge/status-deployed-brightgreen?style=flat-square"/>
-
-AI-powered clinical triage system that analyzes symptoms and classifies cases into **EMERGENCY / HIGH / NORMAL** urgency in real time.
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `AI APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Mentor Map
-<img src="https://img.shields.io/badge/users-50%2B%20active-blue?style=flat-square"/>
-
-Full-stack mentor-discovery platform. Cut visual inconsistencies **30%** and API retrieval time **40%**.
-
-`React` `TypeScript` `Node.js` `MongoDB` `JWT`
+**🏆**
+<br/>
+**Smart India Hackathon**
+<br/>
+<sub>National Winner · 500+ teams</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="20%" align="center">
 
-### 🎉 TES-4.0
-<img src="https://img.shields.io/badge/load%20time-%E2%88%9230%25-orange?style=flat-square"/>
-
-Responsive event management app, optimized via lazy loading & code splitting.
-
-`React` `JavaScript` `TailwindCSS` `Vercel`
+**🥈**
+<br/>
+**Internal Hackathon**
+<br/>
+<sub>Runner-up · 100+ teams</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="20%" align="center">
 
-### 🏆 Achievements
-🥇 SIH 2024 — **1st / 500+ teams**
-🥈 ABES Internal Hackathon — **2nd / 100+**
-🏅 HCL–GUVI Hackathon — **Top 20 / 450+**
-☁️ Certified Cloud Computing Practitioner
+**🏅**
+<br/>
+**HCL–GUVI Hackathon**
+<br/>
+<sub>Top 20 · 450+ teams</sub>
+
+</td>
+<td width="20%" align="center">
+
+**💻**
+<br/>
+**DSA**
+<br/>
+<sub>400+ problems solved</sub>
+
+</td>
+<td width="20%" align="center">
+
+**🚀**
+<br/>
+**Projects**
+<br/>
+<sub>10+ full-stack builds</sub>
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+<h2 align="center">Featured Projects</h2>
+
+<table width="100%">
+<tr>
+<td width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=80&text=MediFlow%20AI&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55"/>
+
+**MediFlow AI**
+
+AI-powered clinical triage system that classifies patient cases into EMERGENCY / HIGH / NORMAL urgency in real time.
+
+`React` `TypeScript` `Node.js` `MongoDB` `AI APIs`
+
+<a href="https://github.com/goel-nandini"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=80&text=MentorMap&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55"/>
+
+**MentorMap**
+
+Full-stack mentor-discovery platform serving 50+ active users, with a 40% faster API layer.
+
+`React` `Node.js` `MongoDB` `JWT`
+
+<a href="https://github.com/goel-nandini"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="33%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00D9FF&height=80&text=TES-4.0&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=55"/>
+
+**TES-4.0**
+
+Responsive event management app with a 30% load-time cut via lazy loading and code splitting.
+
+`React` `TailwindCSS` `Vercel`
+
+<a href="https://github.com/goel-nandini"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
+<h2 align="center">Tech Stack</h2>
+
+<table width="100%">
+<tr>
+<td align="center" width="16.6%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind"/></td>
+<td align="center" width="16.6%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express"/></td>
+<td align="center" width="16.6%"><b>Database</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/></td>
+<td align="center" width="16.6%"><b>Cloud</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,docker,vercel"/></td>
+<td align="center" width="16.6%"><b>Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,linux"/></td>
+<td align="center" width="16.6%"><b>Problem Solving</b><br/><br/><img src="https://skillicons.dev/icons?i=cpp,py,js"/></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
+
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=goel-nandini&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=goel-nandini&theme=dark&hide_border=true&background=0A0E27&stroke=00D9FF&ring=6C63FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-## 💼 Beyond Code
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656535-6a740e1a-9153-4830-a8ad-b0344cb3d1bc.gif" width="80">
-</div>
-
-**Technical Coordinator, E-Cell ABESEC** · *Oct 2025 – Dec 2025*
-> ⚡ Cut page load time by **75%**, boosted Core Web Vitals
-> 🎨 Redesigned complete UI/UX & information hierarchy
-> 🔀 Owned Git/GitHub workflows and PR reviews for the team
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goel-nandini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6C63FF&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goel-nandini&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=6C63FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goel-nandini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goel-nandini&layout=compact&theme=dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=c9d1d9" width="45%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goel-nandini&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=6C63FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goel-nandini&theme=react-dark&hide_border=true&bg_color=0A0E27&color=00D9FF&line=6C63FF&point=ffffff" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=goel-nandini&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
-## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+
+<h2 align="center">Watching my contributions come alive 🐍</h2>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/goel-nandini/goel-nandini/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚙️ enable via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — set repo name to <code>goel-nandini/goel-nandini</code></sub>
+<sub>Powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action</sub>
 </div>
 
-## 🌐 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
+
+<h2 align="center">Current Focus</h2>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nandinipo.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandini-devops)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goel-nandini)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandinigoel.0207@gmail.com)
+| Area | Status |
+|---|---|
+| Backend Architecture | ✔ |
+| System Design | ✔ |
+| Docker | ✔ |
+| AWS | ✔ |
+| DevOps | ✔ |
+| AI Agents | ✔ |
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:6C63FF,100:00D9FF&height=2"/>
+
+<!-- ═══════════════════════════ PHILOSOPHY ═══════════════════════════ -->
+
+<h2 align="center">Coding Philosophy</h2>
 
 <div align="center">
 
-### 💡 *Learn → Build → Break → Fix → Repeat.*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+```javascript
+while (alive) {
+  Learn();
+  Build();
+  Debug();
+  Deploy();
+  Repeat();
+}
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8E54E9,100:6C63FF&height=120&section=footer"/>
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
+<div align="center">
+
+### Building software that creates impact.
+
+Thanks for visiting. Made with ❤️ by **Nandini Goel**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C63FF,100:0A0E27&height=120&section=footer"/>
