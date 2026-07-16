@@ -26,8 +26,7 @@ I build full-stack products end-to-end — from React interfaces to Node.js APIs
 </td>
 <td width="42%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238200622-c158e4c7-19f0-4f7f-8ff2-5ba36cec2eb1.gif" width="100%"/>
-
+<img src="user-image.jpeg" width="100%"/>
 </td>
 </tr>
 </table>
