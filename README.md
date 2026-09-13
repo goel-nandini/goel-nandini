@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,30:FF2D78,60:BF5FFF,100:00F5FF&height=160&section=header&text=NANDINI%20GOEL&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20SIH%20Winner&descSize=16&descAlignY=75&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,30:E8E8E8,60:A0A0B0,100:C8D8FF&height=160&section=header&text=NANDINI%20GOEL&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20SIH%20Winner&descSize=16&descAlignY=75&descAlign=50"/>
 
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 
@@ -6,7 +6,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=FF2D78&center=false&vCenter=true&width=540&height=60&lines=%5BSYSTEM+ONLINE%5D+...+Nandini+Goel;Full+Stack+Developer+%2F+AI+Builder;Smart+India+Hackathon+Winner+%F0%9F%8F%86;Building+software+that+creates+impact."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=700&color=E8E8E8&center=false&vCenter=true&width=540&height=60&lines=%5BSYSTEM+ONLINE%5D+...+Nandini+Goel;Full+Stack+Developer+%2F+AI+Builder;Smart+India+Hackathon+Winner+%F0%9F%8F%86;Building+software+that+creates+impact."/>
 
 <br/>
 
@@ -14,23 +14,23 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8C%86_Ghaziabad,_India-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FF2D78"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%93_B.Tech_CSE_(AI_%26_ML)-0D0D0D?style=flat-square&labelColor=0D0D0D&color=BF5FFF"/>
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_SIH_2024_National_Winner-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00F5FF"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%86_Ghaziabad,_India-0D0D0D?style=flat-square&labelColor=0D0D0D&color=E8E8E8"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_B.Tech_CSE_(AI_%26_ML)-0D0D0D?style=flat-square&labelColor=0D0D0D&color=A0A0B0"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_SIH_2024_National_Winner-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C8D8FF"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%98%95_Chai_Powered-FF2D78?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/%F0%9F%90%9B_Debug_Queen-BF5FFF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_Ship_Fast-00F5FF?style=flat-square&logoColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Obsessed-00FF9D?style=flat-square&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/%E2%98%95_Chai_Powered-E8E8E8?style=flat-square&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/%F0%9F%90%9B_Debug_Queen-A0A0B0?style=flat-square&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_Ship_Fast-C8D8FF?style=flat-square&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_Obsessed-6A7FDB?style=flat-square&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF2D78?style=for-the-badge&logoColor=white&logo=vercel"/></a>
-<a href="https://www.linkedin.com/in/nandini-devops/"><img src="https://img.shields.io/badge/LinkedIn-%23BF5FFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nandinigoel.0207@gmail.com"><img src="https://img.shields.io/badge/Email-%2300F5FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D"/></a>
-<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Resume-%2300FF9D?style=for-the-badge&logo=readdotcv&logoColor=0D0D0D"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23E8E8E8?style=for-the-badge&logoColor=0D0D0D&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/nandini-devops/"><img src="https://img.shields.io/badge/LinkedIn-%23A0A0B0?style=for-the-badge&logo=linkedin&logoColor=0D0D0D"/></a>
+<a href="mailto:nandinigoel.0207@gmail.com"><img src="https://img.shields.io/badge/Email-%23C8D8FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Resume-%236A7FDB?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </td>
 <td width="40%" align="center">
@@ -43,13 +43,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=goel-nandini&color=FF2D78&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/goel-nandini?style=flat-square&color=BF5FFF&labelColor=0D0D0D)
-![Repos](https://img.shields.io/github/repos/goel-nandini?style=flat-square&color=00F5FF&labelColor=0D0D0D&label=REPOSITORIES)
+![Profile Views](https://komarev.com/ghpvc/?username=goel-nandini&color=E8E8E8&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/goel-nandini?style=flat-square&color=A0A0B0&labelColor=0D0D0D)
+![Repos](https://img.shields.io/github/repos/goel-nandini?style=flat-square&color=C8D8FF&labelColor=0D0D0D&label=REPOSITORIES)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
@@ -75,7 +75,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 
@@ -96,7 +96,7 @@
 </td>
 <td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/🥈-SILVER-BF5FFF?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/🥈-SILVER-A0A0B0?style=for-the-badge&labelColor=0D0D0D"/>
 <br/><br/>
 **Internal Hackathon**
 <br/>
@@ -105,7 +105,7 @@
 </td>
 <td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/🏅-TOP_20-00F5FF?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/🏅-TOP_20-C8D8FF?style=for-the-badge&labelColor=0D0D0D"/>
 <br/><br/>
 **HCL–GUVI Hackathon**
 <br/>
@@ -114,7 +114,7 @@
 </td>
 <td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/💻-400+-FF2D78?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/💻-400+-E8E8E8?style=for-the-badge&labelColor=0D0D0D"/>
 <br/><br/>
 **DSA Problems**
 <br/>
@@ -123,7 +123,7 @@
 </td>
 <td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/🚀-10+-00FF9D?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/🚀-10+-6A7FDB?style=for-the-badge&labelColor=0D0D0D"/>
 <br/><br/>
 **Full-Stack Projects**
 <br/>
@@ -135,7 +135,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ SKILL BARS ═══════════════════════════ -->
 
@@ -149,20 +149,20 @@
 
 **⚡ Frontend**
 
-![React](https://progress-bar.xyz/90/?title=React&width=300&color=FF2D78&suffix=%)
-![TypeScript](https://progress-bar.xyz/78/?title=TypeScript&width=300&color=FF2D78&suffix=%)
-![Next.js](https://progress-bar.xyz/72/?title=Next.js&width=300&color=FF2D78&suffix=%)
-![TailwindCSS](https://progress-bar.xyz/85/?title=TailwindCSS&width=300&color=FF2D78&suffix=%)
+![React](https://progress-bar.xyz/90/?title=React&width=300&color=E8E8E8&suffix=%)
+![TypeScript](https://progress-bar.xyz/78/?title=TypeScript&width=300&color=E8E8E8&suffix=%)
+![Next.js](https://progress-bar.xyz/72/?title=Next.js&width=300&color=E8E8E8&suffix=%)
+![TailwindCSS](https://progress-bar.xyz/85/?title=TailwindCSS&width=300&color=E8E8E8&suffix=%)
 
 </td>
 <td>
 
 **🔧 Backend**
 
-![Node.js](https://progress-bar.xyz/88/?title=Node.js&width=300&color=BF5FFF&suffix=%)
-![Express.js](https://progress-bar.xyz/82/?title=Express.js&width=300&color=BF5FFF&suffix=%)
-![REST%20APIs](https://progress-bar.xyz/90/?title=REST+APIs&width=300&color=BF5FFF&suffix=%)
-![MongoDB](https://progress-bar.xyz/80/?title=MongoDB&width=300&color=BF5FFF&suffix=%)
+![Node.js](https://progress-bar.xyz/88/?title=Node.js&width=300&color=A0A0B0&suffix=%)
+![Express.js](https://progress-bar.xyz/82/?title=Express.js&width=300&color=A0A0B0&suffix=%)
+![REST%20APIs](https://progress-bar.xyz/90/?title=REST+APIs&width=300&color=A0A0B0&suffix=%)
+![MongoDB](https://progress-bar.xyz/80/?title=MongoDB&width=300&color=A0A0B0&suffix=%)
 
 </td>
 </tr>
@@ -171,20 +171,20 @@
 
 **🤖 AI / ML**
 
-![Python](https://progress-bar.xyz/72/?title=Python&width=300&color=00F5FF&suffix=%)
-![AI%20APIs](https://progress-bar.xyz/85/?title=AI+APIs&width=300&color=00F5FF&suffix=%)
-![LangChain](https://progress-bar.xyz/60/?title=LangChain&width=300&color=00F5FF&suffix=%)
-![Prompt%20Eng.](https://progress-bar.xyz/80/?title=Prompt+Eng.&width=300&color=00F5FF&suffix=%)
+![Python](https://progress-bar.xyz/72/?title=Python&width=300&color=C8D8FF&suffix=%)
+![AI%20APIs](https://progress-bar.xyz/85/?title=AI+APIs&width=300&color=C8D8FF&suffix=%)
+![LangChain](https://progress-bar.xyz/60/?title=LangChain&width=300&color=C8D8FF&suffix=%)
+![Prompt%20Eng.](https://progress-bar.xyz/80/?title=Prompt+Eng.&width=300&color=C8D8FF&suffix=%)
 
 </td>
 <td>
 
 **☁️ Cloud & DevOps**
 
-![Docker](https://progress-bar.xyz/68/?title=Docker&width=300&color=00FF9D&suffix=%)
-![AWS](https://progress-bar.xyz/60/?title=AWS&width=300&color=00FF9D&suffix=%)
-![Git](https://progress-bar.xyz/92/?title=Git&width=300&color=00FF9D&suffix=%)
-![Linux](https://progress-bar.xyz/70/?title=Linux&width=300&color=00FF9D&suffix=%)
+![Docker](https://progress-bar.xyz/68/?title=Docker&width=300&color=6A7FDB&suffix=%)
+![AWS](https://progress-bar.xyz/60/?title=AWS&width=300&color=6A7FDB&suffix=%)
+![Git](https://progress-bar.xyz/92/?title=Git&width=300&color=6A7FDB&suffix=%)
+![Linux](https://progress-bar.xyz/70/?title=Linux&width=300&color=6A7FDB&suffix=%)
 
 </td>
 </tr>
@@ -192,7 +192,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ TECH STACK ICONS ═══════════════════════════ -->
 
@@ -213,7 +213,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
@@ -223,64 +223,64 @@
 <tr>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,100:BF5FFF&height=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,100:A0A0B0&height=6"/>
 
 **🏥 MediFlow AI**
 
 AI-powered clinical triage system that classifies patient cases into `EMERGENCY` / `HIGH` / `NORMAL` urgency in real time. Deployed in production.
 
-<img src="https://img.shields.io/badge/React-FF2D78?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-BF5FFF?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-00F5FF?style=flat-square&logo=node.js&logoColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/MongoDB-00FF9D?style=flat-square&logo=mongodb&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/React-E8E8E8?style=flat-square&logo=react&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/TypeScript-A0A0B0?style=flat-square&logo=typescript&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Node.js-C8D8FF?style=flat-square&logo=node.js&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/MongoDB-6A7FDB?style=flat-square&logo=mongodb&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/goel-nandini"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-FF2D78?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-E8E8E8?style=flat-square&logo=vercel&logoColor=0D0D0D"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BF5FFF,100:00F5FF&height=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A0A0B0,100:C8D8FF&height=6"/>
 
 **🗺️ MentorMap**
 
 Full-stack mentor-discovery platform serving 50+ active users with a **40% faster API** response layer through query optimization and caching.
 
-<img src="https://img.shields.io/badge/React-FF2D78?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-BF5FFF?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-00F5FF?style=flat-square&logo=mongodb&logoColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/JWT-00FF9D?style=flat-square&logo=jsonwebtokens&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/React-E8E8E8?style=flat-square&logo=react&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Node.js-A0A0B0?style=flat-square&logo=node.js&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/MongoDB-C8D8FF?style=flat-square&logo=mongodb&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/JWT-6A7FDB?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/goel-nandini"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-BF5FFF?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-A0A0B0?style=flat-square&logo=vercel&logoColor=0D0D0D"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:00FF9D&height=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8D8FF,100:6A7FDB&height=6"/>
 
 **🎪 TES-4.0**
 
 Responsive event management app with a **30% load-time reduction** via lazy loading, code splitting, and Vercel edge delivery.
 
-<img src="https://img.shields.io/badge/React-FF2D78?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-BF5FFF?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-00F5FF?style=flat-square&logo=vercel&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/React-E8E8E8?style=flat-square&logo=react&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/TailwindCSS-A0A0B0?style=flat-square&logo=tailwindcss&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Vercel-C8D8FF?style=flat-square&logo=vercel&logoColor=0D0D0D"/>
 
 <br/><br/>
 
 <a href="https://github.com/goel-nandini"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=flat-square&logo=vercel&logoColor=0D0D0D"/></a>
+<a href="https://nandinipo.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-C8D8FF?style=flat-square&logo=vercel&logoColor=0D0D0D"/></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 
@@ -288,24 +288,24 @@ Responsive event management app with a **30% load-time reduction** via lazy load
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=goel-nandini&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2D78&icon_color=BF5FFF&text_color=c9d1d9&count_private=true&ring_color=00F5FF"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=goel-nandini&theme=dark&hide_border=true&background=0D0D0D&stroke=FF2D78&ring=BF5FFF&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=BF5FFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=goel-nandini&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8E8E8&icon_color=A0A0B0&text_color=c9d1d9&count_private=true&ring_color=C8D8FF"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=goel-nandini&theme=dark&hide_border=true&background=0D0D0D&stroke=E8E8E8&ring=A0A0B0&fire=C8D8FF&currStreakLabel=E8E8E8&sideLabels=A0A0B0"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goel-nandini&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2D78&text_color=c9d1d9" width="44%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goel-nandini&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8E8E8&text_color=c9d1d9" width="44%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goel-nandini&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=FF2D78&line=BF5FFF&point=00F5FF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goel-nandini&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=E8E8E8&line=A0A0B0&point=C8D8FF" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=goel-nandini&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&title_color=FF2D78"/>
+<img src="https://github-profile-trophy.vercel.app/?username=goel-nandini&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 
@@ -316,7 +316,7 @@ Responsive event management app with a **30% load-time reduction** via lazy load
 <sub>Powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
 
@@ -330,29 +330,29 @@ Responsive event management app with a **30% load-time reduction** via lazy load
 
 **🔴 Actively Building**
 
-<img src="https://img.shields.io/badge/Backend_Architecture-FF2D78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Architecture-E8E8E8?style=for-the-badge&logoColor=0D0D0D"/>
 <br/>
-<img src="https://img.shields.io/badge/AI_Agents-FF2D78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-E8E8E8?style=for-the-badge&logoColor=0D0D0D"/>
 
 </td>
 <td align="center" width="33%">
 
 **🟡 Deep Diving**
 
-<img src="https://img.shields.io/badge/System_Design-BF5FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-A0A0B0?style=for-the-badge&logoColor=0D0D0D"/>
 <br/>
-<img src="https://img.shields.io/badge/AWS_Cloud-BF5FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_Cloud-A0A0B0?style=for-the-badge&logoColor=0D0D0D"/>
 <br/>
-<img src="https://img.shields.io/badge/Docker-BF5FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-A0A0B0?style=for-the-badge&logoColor=0D0D0D"/>
 
 </td>
 <td align="center" width="33%">
 
 **🟢 Levelling Up**
 
-<img src="https://img.shields.io/badge/DevOps-00FF9D?style=for-the-badge&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/DevOps-6A7FDB?style=for-the-badge&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Open_Source-00FF9D?style=for-the-badge&logoColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Open_Source-6A7FDB?style=for-the-badge&logoColor=white"/>
 
 </td>
 </tr>
@@ -360,7 +360,7 @@ Responsive event management app with a **30% load-time reduction** via lazy load
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ PHILOSOPHY ═══════════════════════════ -->
 
@@ -394,7 +394,7 @@ while (alive) {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,50:BF5FFF,100:00F5FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8E8E8,50:A0A0B0,100:C8D8FF&height=2"/>
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
@@ -410,19 +410,19 @@ while (alive) {
 <br/>
 
 <a href="https://nandinipo.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-FF2D78?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-E8E8E8?style=for-the-badge&logoColor=0D0D0D"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/nandini-devops/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-BF5FFF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼_LinkedIn-A0A0B0?style=for-the-badge&logoColor=0D0D0D"/>
 </a>
 &nbsp;
 <a href="mailto:nandinigoel.0207@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-00F5FF?style=for-the-badge&logoColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/📧_Email_Me-C8D8FF?style=for-the-badge&logoColor=0D0D0D"/>
 </a>
 &nbsp;
 <a href="https://nandinipo.netlify.app/">
-  <img src="https://img.shields.io/badge/📄_Resume-00FF9D?style=for-the-badge&logoColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/📄_Resume-6A7FDB?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -437,4 +437,4 @@ Made with ❤️ + ☕ by **Nandini Goel** &nbsp;|&nbsp; Last updated: Sep 2026
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,30:BF5FFF,70:FF2D78,100:0D0D0D&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8D8FF,30:A0A0B0,70:E8E8E8,100:0D0D0D&height=140&section=footer"/>
